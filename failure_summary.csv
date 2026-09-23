@@ -1,0 +1,6 @@
+Failure_Reason,Count
+Tool Error,623
+Timeout,608
+Data Unavailable,604
+Insufficient Context,587
+Policy Restriction,587
